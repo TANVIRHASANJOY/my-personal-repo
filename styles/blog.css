@@ -5,3 +5,6 @@ h1{
 .ticket{
     text-decoration: underline;
 }
+p{
+    color: blue;
+}
